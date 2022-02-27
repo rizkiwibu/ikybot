@@ -13,8 +13,7 @@ ___
 
 ___
 
-![Bintangp02 github stats](https://github-readme-stats.vercel.app/api?username=rizkiwibu&show_icons=true&theme=buefy&show_owner=true)
-___
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiwibu&theme=buefy)
 ![](https://github-profile-trophy.vercel.app/?username=Bintangp02&row=2&column=3)
