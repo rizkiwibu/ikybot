@@ -23,3 +23,6 @@ ___
 >[MY YOUTUBE]()
 <!--INFO UPDATE BOT!-->
 >[ BOT WHATSAPP 🆕](https://github.com/rizkiwibu)
+## NOMER RIZKI
+[![NOMER WhatsApp](https://img.shields.io/badge/WhatsApp%20NOMER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() 
+**NO BOT** >[es d
